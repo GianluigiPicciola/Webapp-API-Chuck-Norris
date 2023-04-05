@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+
+p {
+    font-size: 20px;
+    font-family: "RocknRoll One", sans-serif;
+}
+
+.Title {
+position: absolute;
+width: 212px;
+height: 119px;
+left: 109px;
+top: 96px;
+
+font-family: 'Alatsi';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 61px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #002E2C;
+
+}
+

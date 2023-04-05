@@ -1,0 +1,13 @@
+select{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 327px;
+    height: 30px;
+    left: 49px;
+    top: 497px;
+    
+    background: #E3E7AF;
+    border: 1px solid #035E7B;
+    border-radius: 10px;
+}

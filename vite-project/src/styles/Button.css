@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+
+
+button{
+    position: absolute;
+    width: 216px;
+    height: 50px;
+    left: 105px;
+    top: 612px;
+}
+
+.Button {
+    display: inline-block;
+}
+
+#generate {
+
+}
+
+#clipboard{
+
+}
